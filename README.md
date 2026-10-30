@@ -25,7 +25,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - **Node.js & npm** – runtime and package management
 - Add your frameworks and libraries here (for example Express.js, MongoDB, Mongoose, JWT)
 
-## 📁 Project Structure
+## 📁 Project Structure ##
 
 ```
 project-name/
