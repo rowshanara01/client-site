@@ -1,4 +1,4 @@
-# Project Name
+## Project Name
 
 A Node.js application written in modern **JavaScript**.
 
