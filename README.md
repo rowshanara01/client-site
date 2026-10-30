@@ -5,7 +5,7 @@ A Node.js application written in modern **JavaScript**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-99.9%25-f1e05a)
 ![Node.js](https://img.shields.io/badge/Node.js-npm-339933)
 
-🔗 **Live Demo:** [your-project-link.com](https://your-project-link.com)
+
 
 ## 📌 About
 
